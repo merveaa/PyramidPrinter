@@ -1,0 +1,15 @@
+RequestTime	PatternType	OutputSize
+1	Star	5
+7	Star	3
+12	Alphabet	5
+14	Alphabet	7
+19	Alphabet	4
+21	Star	4
+26	Star	8
+27	Alphabet	8
+27	Star	9
+150	Star	9
+210	Alphabet	9
+300	Star		1
+333	Alphabet	1
+360	Star		1
